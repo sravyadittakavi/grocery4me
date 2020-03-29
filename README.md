@@ -1,2 +1,2 @@
 # grocery4me
-Grocery list manager
+Grocery list manager using react
